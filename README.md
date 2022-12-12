@@ -1,6 +1,6 @@
 # Binary-Classification-for-Sentiment-Analysis
 
-This repository contains different Binary Text Classification Techniques for Sentiment Analysis
+This repository contains different Binary Text Classification Techniques for Sentiment Analysis (work during my internship period)
 
 * Using WordNet Lemmatizer
 * Using Spacy Lemmatizer Without Pretrained Word Embeddings
